@@ -1,0 +1,22 @@
+
+.show-grid .col-md-12{
+    height: 50px;
+    border:1px solid #aaa;
+    background-color: red;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.show-grid .col-md-3{
+    height: 50px;
+    border:1px solid #aaa;
+    background-color: blue;
+    margin-bottom: 2em;
+}
+
+.show-grid .col-md-9{
+    height: 50px;
+    border:1px solid #aaa;
+    background-color: green;
+}
+    

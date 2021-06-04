@@ -1,0 +1,49 @@
+div[class*="col"] {
+  border: 3px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h4,
+p {
+  color: white;
+  font-weight: bold;
+}
+.verde {
+  background-color: #00ff00;
+  height: 100px;
+}
+
+.rojo {
+  background-color: red;
+}
+
+.gris {
+  background-color: #cccccc;
+  height: 75px;
+}
+
+.morado {
+  background-color: purple;
+  height: 100px;
+}
+
+.naranja {
+  background-color: #ff9955;
+  height: 150px;
+}
+
+.azul {
+  background-color: #87aade;
+  height: 75px;
+}
+
+.azul-claro {
+  background-color: #00ffff;
+  height: 75px;
+}
+
+div#third-row {
+  height: 50px;
+}
